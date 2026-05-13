@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gescampo.github.io/snippets-bxsho0/sitemap.xml
